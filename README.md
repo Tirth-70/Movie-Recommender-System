@@ -35,4 +35,4 @@ The recommender system uses a combination of movie features, such as genres, key
 ## Acknowledgments
 * This project is inspired by the concept of collaborative filtering and content-based recommendation systems.
 * The movie data is sourced from The Movie Database (TMDb).
-Feel free to explore and enjoy the movie recommendations!
+#### Feel free to explore and enjoy the movie recommendations!
